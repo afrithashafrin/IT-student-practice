@@ -1,0 +1,5 @@
+Hello
+My name is Afritha Shafrin.
+I am studying B.Tech IT.
+
+This is my first GitHub repository created for learning GitHub and version control.
